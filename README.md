@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/goutham01221996/GOUTHAM01221996.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://192.168.0.113/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
