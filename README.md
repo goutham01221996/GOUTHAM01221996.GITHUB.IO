@@ -1,18 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to GOUTHAM Pages
 
 You can use the [editor on GitHub](https://github.com/goutham01221996/GOUTHAM01221996.GITHUB.IO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://192.168.0.113/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+how to create a website using ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+<h1>GOUTHAM 1 Example</h1>
+<h2>GOUTHAM 2 Example</h2>
+<h3>GOUTHAM 3 Example</h3>
+<h4>GOUTHAM 4 Example</h4>
+<h5>GOUTHAM 5 Example</h5>
+<h6>GOUTHAM 6 Example</h6># Header 1
+## GOUTHAM 2
 ### Header 3
 
 - Bulleted
